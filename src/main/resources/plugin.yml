@@ -1,0 +1,5 @@
+name: PlayerTracker
+version: '${project.version}'
+main: javier.playertracker.PlayerTracker
+api-version: 1.19
+description: tracks down players
